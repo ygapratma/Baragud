@@ -1,0 +1,111 @@
+CI_DB_odbc_result Object
+(
+    [conn_id] => Resource id #54
+    [result_id] => Resource id #66
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [nomor_quotation] => 6200272891
+                    [ekuivalen] => 0
+                    [urutan_berkas] => 1
+                    [kode_barang] => 7007281
+                    [alamat_berkas] => upload_files/dokumen_quotation/6200272891/
+                    [nama_berkas_asli] => tes 1.pdf
+                    [nama_berkas] => b031a17da205a956cabd4505552d7b2033afd933927d670af2131b49eb642f7cf5b913d439644b4d82c536873e63fad1fabb589d863e2c31732e3fbfd0e8b371u-RWDCJ8wqHXccVCoYDVwQJAxojcB8JVnocvxJ4_0Svq9_YktOD1iYpanU5Z56cz
+                    [modified_date] => 2022-10-29 07:02:33.000
+                    [modified_by] => WEB         
+                )
+
+            [1] => stdClass Object
+                (
+                    [nomor_quotation] => 6200272891
+                    [ekuivalen] => 0
+                    [urutan_berkas] => 2
+                    [kode_barang] => 7007281
+                    [alamat_berkas] => upload_files/dokumen_quotation/6200272891/
+                    [nama_berkas_asli] => tes 2.pdf
+                    [nama_berkas] => 196b4880d16705f0148e066d7e84ee89743cd5e686e89fcac797120bce133ec374d55e25edd9ae350f65c974220c9fc4330ed5007b20ed7d3e974eb12a767315SACYd8cm1T8eoATZKx5ZGvogXIuQoum0T8uYKfy7tYIxIF2y0IcSi_tUVNYk1f9a
+                    [modified_date] => 2022-10-29 07:02:33.000
+                    [modified_by] => WEB         
+                )
+
+            [2] => stdClass Object
+                (
+                    [nomor_quotation] => 6200272891
+                    [ekuivalen] => 0
+                    [urutan_berkas] => 3
+                    [kode_barang] => 7007281
+                    [alamat_berkas] => upload_files/dokumen_quotation/6200272891/
+                    [nama_berkas_asli] => tes 3.pdf
+                    [nama_berkas] => 4d06b468634089f96da8c9e67fda7c6b02fe0b1a3cb9ce2d15774344c1e70dfa43e132ac270c9f10df9743c03c70ec022f5c8c26cf14e511f3ef1650e4b16a144E8fpW10OIzPljNzc114Q0Y88nKAomQPRpkMg0CrU701X05pS-AKelEhsgKuHCRC
+                    [modified_date] => 2022-10-29 07:02:33.000
+                    [modified_by] => WEB         
+                )
+
+            [3] => stdClass Object
+                (
+                    [nomor_quotation] => 6200272891
+                    [ekuivalen] => 0
+                    [urutan_berkas] => 4
+                    [kode_barang] => 7007281
+                    [alamat_berkas] => upload_files/dokumen_quotation/6200272891/
+                    [nama_berkas_asli] => tes 4.pdf
+                    [nama_berkas] => f5bf7dae265a1aa7d9476662d4d4e193fdcb4380ebbdf1d211ba9ed6341c4c4cdb311a965aa76b4446430c1d6e0b9655e1a4324f798aa1ae522a1f7ff084b58bv_ZlxznE9Z4kYM35wpxgEccAllWdP_ai9zqhkj6FSvM3xfghyLHO8G7D3F7bHyYK
+                    [modified_date] => 2022-10-29 07:02:33.000
+                    [modified_by] => WEB         
+                )
+
+            [4] => stdClass Object
+                (
+                    [nomor_quotation] => 6200272891
+                    [ekuivalen] => 0
+                    [urutan_berkas] => 5
+                    [kode_barang] => 7007281
+                    [alamat_berkas] => upload_files/dokumen_quotation/6200272891/
+                    [nama_berkas_asli] => tes 5.pdf
+                    [nama_berkas] => 1145a6dfee8b5d89be2f5f64a2fb1a0c0a684f7290d35971a07a27cc4a70cb1dd96be17520b8a7557e329cd17f8158628d1d5ad2f163f6840bcf178baa435f2fwi3BTDmlqAmZA9D47TmVp2GiTJvBRZoJo74aULBpnjRJ1fKQlmxlIxupQjity5Kr
+                    [modified_date] => 2022-10-29 07:02:33.000
+                    [modified_by] => WEB         
+                )
+
+            [5] => stdClass Object
+                (
+                    [nomor_quotation] => 6200272891
+                    [ekuivalen] => 0
+                    [urutan_berkas] => 6
+                    [kode_barang] => 7007283
+                    [alamat_berkas] => upload_files/dokumen_quotation/6200272891/
+                    [nama_berkas_asli] => tes 1.pdf
+                    [nama_berkas] => 0b644d881b830bb18c4859e11f207954e6e610b856bb3ab6b54161515759b5631716da42bcb7aabc89d9ac5ce3807b4ebabd992cc1284fcced51000a18c1c6a9fABiMT_9jb_E-IRIGEWr8hoSq7HHDL5Fr-Nr2FXmO2cmsmg4BM_BvenBQm2-CiiF
+                    [modified_date] => 2022-10-29 07:08:16.000
+                    [modified_by] => WEB         
+                )
+
+            [6] => stdClass Object
+                (
+                    [nomor_quotation] => 6200272891
+                    [ekuivalen] => 0
+                    [urutan_berkas] => 7
+                    [kode_barang] => 7011533
+                    [alamat_berkas] => upload_files/dokumen_quotation/6200272891/
+                    [nama_berkas_asli] => tes 1.pdf
+                    [nama_berkas] => 05977142f7a652d6df171baf7b0f5ecd91fb2119153a05c5a2dde66fd71c7a244f92eefdeff642c6edc69a53ac0ff3ba5579fbe297e5ee709ee37221571769b2R3nWub4EX7KoaY9nKgUz8wNlup5Y-KoSLupIcRTsKQNajVf4NBjuC3X22E9-R4Ip
+                    [modified_date] => 2022-10-29 07:09:08.000
+                    [modified_by] => WEB         
+                )
+
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 7
+    [row_data] => 
+)
